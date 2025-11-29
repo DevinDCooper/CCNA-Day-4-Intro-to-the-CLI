@@ -2,6 +2,8 @@ complete, the concepts I learn, and the challenges I overcome. My goal is to bui
 
 CCNA Journey – Day 4
 Lab Title: Intro to CLI
+
+
 📌 Overview
 
 Today I learned the basics of working with the Cisco Command-Line Interface (CLI) and how to connect to a router or switch using console cables like an RJ-45 rollover cable or a USB Mini-B console cable. I used a terminal emulator (PuTTY) to access the device and explored the different exec modes inside a Cisco device.
